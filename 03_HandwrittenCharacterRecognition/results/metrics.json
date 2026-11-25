@@ -1,0 +1,7 @@
+{
+  "dataset": "balanced",
+  "charset": "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabdefghnqrt",
+  "cnn_test_accuracy": 0.899,
+  "crnn_cer": 0.0555,
+  "crnn_word_accuracy": 0.7843
+}

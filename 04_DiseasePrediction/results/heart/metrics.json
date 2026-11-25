@@ -1,0 +1,38 @@
+{
+  "dataset": "Heart disease",
+  "selected_model": "SVM",
+  "results": {
+    "Logistic Regression": {
+      "cv_roc_auc": 0.8872,
+      "accuracy": 0.837,
+      "precision": 0.8462,
+      "recall": 0.8627,
+      "f1": 0.8544,
+      "roc_auc": 0.902
+    },
+    "SVM": {
+      "cv_roc_auc": 0.8922,
+      "accuracy": 0.8478,
+      "precision": 0.8246,
+      "recall": 0.9216,
+      "f1": 0.8704,
+      "roc_auc": 0.9163
+    },
+    "Random Forest": {
+      "cv_roc_auc": 0.8858,
+      "accuracy": 0.8587,
+      "precision": 0.8654,
+      "recall": 0.8824,
+      "f1": 0.8738,
+      "roc_auc": 0.9295
+    },
+    "XGBoost": {
+      "cv_roc_auc": 0.8834,
+      "accuracy": 0.8533,
+      "precision": 0.8641,
+      "recall": 0.8725,
+      "f1": 0.8683,
+      "roc_auc": 0.9271
+    }
+  }
+}

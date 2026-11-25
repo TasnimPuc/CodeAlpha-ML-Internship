@@ -1,0 +1,14 @@
+{
+  "split": "speaker",
+  "classes": [
+    "angry",
+    "calm",
+    "disgust",
+    "fear",
+    "happy",
+    "neutral",
+    "sad",
+    "surprise"
+  ],
+  "test_accuracy": 0.85
+}

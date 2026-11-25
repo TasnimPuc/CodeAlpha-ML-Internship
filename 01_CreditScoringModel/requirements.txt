@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn>=1.3
+matplotlib
+joblib
+ucimlrepo
+xlrd  # only needed for the original UCI .xls file
