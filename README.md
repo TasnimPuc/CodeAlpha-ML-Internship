@@ -1,5 +1,7 @@
 # CodeAlpha – Machine Learning Internship
 
+![repo health](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TasnimPuc/bd-rooftop-solar-calculator/main/.github/health/badge.json)
+
 Four machine-learning projects built during the CodeAlpha ML internship: classical ML on tabular data, audio deep learning, and computer vision. Every project is a Kaggle notebook with all outputs saved, plus a README explaining the approach and results.
 
 | # | Project | What it does | Techniques | Key result |
